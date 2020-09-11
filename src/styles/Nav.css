@@ -1,0 +1,46 @@
+
+.imagen{
+  padding: 7px;
+  border-radius: 10px;
+}
+.textoImagen{
+  margin-left: 10px;
+  color: white;
+  margin-top: 12px;
+}
+
+.general{
+  display: flex;
+  justify-content: space-between;
+  background-color: #33383E;
+  height: 50px;
+}
+
+.divInputs{
+  display: flex;
+  text-align: justify;
+  margin-top: 9px;
+  margin-right: 13px;
+}
+
+.input{
+  margin-right: 5px;
+  border-radius: 5px;
+  border: none;
+  padding: 3px;
+
+}
+
+.button{
+  background-color: #33383E;
+  color: #3A7F4B;
+  border: solid #3A7F4B;
+  border-radius: 5px;
+  height: 35px;
+}
+
+.button:hover{
+  background-color: #070708;
+}
+
+

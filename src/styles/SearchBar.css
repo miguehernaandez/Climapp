@@ -1,0 +1,17 @@
+
+.barra{
+    background-color: black;
+    padding: 7px;
+    background: none;
+}
+
+.button{
+    margin-left: 5px;
+    background-color: #CCCCCC;
+    color: black;
+    border: black;
+    border-radius: 7px;
+    height: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
